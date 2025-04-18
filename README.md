@@ -1,3 +1,32 @@
+ASSIGNMENT 3:
+Problem Statement: Write a Python program that:
+1.   Defines a function named factorial that takes a number as an argument and calculates its factorial using a loop or recursion.
+2.   Returns the calculated factorial.
+3.   Calls the function with a sample number and prints the output.
+ 
+Expected Output:
+For example, if the function is called with 5, it should return:
+
+Enter a number 5
+The factorial of 5 is 120
+
+Task 2: Using the Math Module for Calculations
+ 
+Problem Statement: Write a Python program that:
+1.   Asks the user for a number as input.
+2.   Uses the math module to calculate the:
+o   Square root of the number
+o   Natural logarithm (log base e) of the number
+o   Sine of the number (in radians)
+3.   Displays the calculated results.
+ Expected Output:
+For example, if the user enters 25, the output should be:
+
+Enter a number25
+Square root of the number  25 is 5.0
+Logarithmic vaue  of the number 25 is 3.2188758248682006
+Square root of the number 25 is -0.13235175009777303
+
 ASSIGNMENT 4:
  
 Task 1: Read a File and Handle Errors 
@@ -30,9 +59,6 @@ Enter some data to write to the file: This is first line in the file
 Final content of the file:
 This is first line in the file
 This is additional data appended to the file.
-
-
-
 
 ASSIGNMENT 5:
 Module 6: Data Structures and Strings in Python
