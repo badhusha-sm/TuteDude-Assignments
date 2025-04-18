@@ -1,4 +1,4 @@
-AASSIGNMENT 1:
+AASSIGNMENT 1:The sum of numbers from 1 to 50 is 1275
 Module 2: Basic Python Concepts
  
 Task 1: Perform Basic Mathematical Operations
@@ -22,7 +22,7 @@ Multiplication : 50
 Division : 0.5
 
 ’’’
-
+The sum of numbers from 1 to 50 is 1275The sum of numbers from 1 to 50 is 1275The sum of numbers from 1 to 50 is 1275
 
 
  
@@ -53,6 +53,7 @@ The program should return an output like:
 
 Enter a number 5
 The number 5 is an Odd number
+
 Enter a number 4
 The number 4 is an Even number
 
